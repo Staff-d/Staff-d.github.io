@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0">
+    <channel>
+        <title>Sebastian's Blogs</title>
+        <link>https://sebastian-staffa.eu</link>
+        <description>RSS feed of all blog posts</description>
+        <item>
+          <title>On How To Lead Devs</title>
+          <link>https://sebastian-staffa.eu/posts/on-how-to-lead-devs</link>
+          <description>After I have been entrusted with leadership responsibilities, it's time to reflect on how not to mess it up.</description>
+          <pubDate>Mon, 25 Mar 2024 15:58:07 GMT</pubDate>
+        </item>
+<item>
+          <title>Azure revisited</title>
+          <link>https://sebastian-staffa.eu/posts/azure-revisited</link>
+          <description>A year with Azure has passed, and this is what I have learned.</description>
+          <pubDate>Mon, 21 Nov 2022 12:13:08 GMT</pubDate>
+        </item>
+<item>
+          <title>Azure vs. AWS - First Impressions</title>
+          <link>https://sebastian-staffa.eu/posts/azure-first-impression</link>
+          <description>After working with AWS for quite some time I got to work with Azure. Here are my thoughts.</description>
+          <pubDate>Sat, 04 Sep 2021 09:18:12 GMT</pubDate>
+        </item>
+<item>
+          <title>Building nvidia-docker containers with nix</title>
+          <link>https://sebastian-staffa.eu/posts/nvidia-docker-with-nix</link>
+          <description>A practical guide on how to package your cuda dependent application build with nix into a docker container.</description>
+          <pubDate>Mon, 09 Mar 2020 19:33:10 GMT</pubDate>
+        </item>
+    </channel>
+  </rss>
