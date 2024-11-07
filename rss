@@ -5,6 +5,12 @@
         <link>https://sebastian-staffa.eu</link>
         <description>RSS feed of all blog posts</description>
         <item>
+          <title>As a freelancer, I put my trust in NixOS. Here's why.</title>
+          <link>https://sebastian-staffa.eu/posts/nixos-as-a-freelancer</link>
+          <description>In today's blog I want to talk about why I have chosen NixOS as my main operating system.</description>
+          <pubDate>Thu, 07 Nov 2024 10:11:08 GMT</pubDate>
+        </item>
+<item>
           <title>On How To Lead Devs</title>
           <link>https://sebastian-staffa.eu/posts/on-how-to-lead-devs</link>
           <description>After I have been entrusted with leadership responsibilities, it's time to reflect on how not to mess it up.</description>

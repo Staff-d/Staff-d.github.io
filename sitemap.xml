@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://sebastian-staffa.eu</loc>
-<lastmod>2024-11-05</lastmod>
+<lastmod>2024-11-07</lastmod>
 </url>
 <url>
-<loc>https://sebastian-staffa.eu/blog</loc>
-<lastmod>2024-11-05</lastmod>
+<loc>https://sebastian-staffa.eu/posts</loc>
+<lastmod>2024-11-07</lastmod>
+</url>
+<url>
+<loc>https://sebastian-staffa.eu/contact</loc>
+<lastmod>2024-11-07</lastmod>
+</url>
+<url>
+<loc>https://sebastian-staffa.eu/imprint</loc>
+<lastmod>2024-11-07</lastmod>
 </url>
 <url>
 <loc>https://sebastian-staffa.eu/posts/azure-first-impression</loc>
@@ -15,6 +23,10 @@
 <url>
 <loc>https://sebastian-staffa.eu/posts/azure-revisited</loc>
 <lastmod>2022-11-21T12:13:08.801Z</lastmod>
+</url>
+<url>
+<loc>https://sebastian-staffa.eu/posts/nixos-as-a-freelancer</loc>
+<lastmod>2024-11-07T10:11:08.169Z</lastmod>
 </url>
 <url>
 <loc>https://sebastian-staffa.eu/posts/nvidia-docker-with-nix</loc>
