@@ -12,6 +12,20 @@
         </description>
         <item>
             <title>
+                MQTT For Web Developers
+            </title>
+            <link>
+                https://sebastian-staffa.eu/posts/mqtt-for-webdevs
+            </link>
+            <description>
+                MQTT is a protocol that is typically used in an IoT context. In this article, we'll explore how we could use its capabilities in a traditional web application to stream messages in real-time.
+            </description>
+            <pubDate>
+                Wed, 20 Nov 2024 16:13:52 GMT
+            </pubDate>
+        </item>
+        <item>
+            <title>
                 As a freelancer, I put my trust in NixOS. Here's why.
             </title>
             <link>
