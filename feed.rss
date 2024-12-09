@@ -12,6 +12,20 @@
         </description>
         <item>
             <title>
+                Improving Median Lambda Init Times By 23%
+            </title>
+            <link>
+                https://sebastian-staffa.eu/posts/minimal-lambda-containers-with-nix
+            </link>
+            <description>
+                In today's post we are improving the cold start times of a Node.js Lambda function by building our own runtime image using Nix.
+            </description>
+            <pubDate>
+                Mon, 09 Dec 2024 11:56:02 GMT
+            </pubDate>
+        </item>
+        <item>
+            <title>
                 MQTT For Web Developers
             </title>
             <link>
