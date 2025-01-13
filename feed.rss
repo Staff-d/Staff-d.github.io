@@ -12,6 +12,20 @@
         </description>
         <item>
             <title>
+                Note: NixOS Feedback Handling
+            </title>
+            <link>
+                https://sebastian-staffa.eu/posts/note-on-nixos-handeling-feedback
+            </link>
+            <description>
+                A quick, positive example on how a project can handle critical feedback
+            </description>
+            <pubDate>
+                Mon, 13 Jan 2025 13:26:51 GMT
+            </pubDate>
+        </item>
+        <item>
+            <title>
                 Improving Median Lambda Init Times By 23%
             </title>
             <link>
