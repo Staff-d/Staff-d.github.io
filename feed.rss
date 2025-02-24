@@ -12,6 +12,20 @@
         </description>
         <item>
             <title>
+                A look at native TypeScript performance
+            </title>
+            <link>
+                https://sebastian-staffa.eu/posts/nodejs-native-ts-benchmark
+            </link>
+            <description>
+                Node.js 23.6.0 dropped the experimental flag for native TypeScript support. Let's see how it performs when running TS natively.
+            </description>
+            <pubDate>
+                Mon, 24 Feb 2025 14:32:53 GMT
+            </pubDate>
+        </item>
+        <item>
+            <title>
                 Note: NixOS Feedback Handling
             </title>
             <link>
